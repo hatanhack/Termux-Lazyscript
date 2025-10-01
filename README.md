@@ -8,8 +8,7 @@ This tool is specially Designed for Termux Beginner users. This tool is very hel
 
 [+] Author :-
 
-Name : hatanhack
-Github : https://github.com/hatanhack/Termux-Lazyscript.git
+Name :hatanhack Github : https://github.com/hatanhack/Termux-Lazyscript.git
 
 [+] Installation :-
 
@@ -26,3 +25,4 @@ sh setup.sh
 python2 ls.py
 (here simply type number to use that tool)
 Enjoy.
+
